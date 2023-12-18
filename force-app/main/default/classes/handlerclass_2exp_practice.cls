@@ -7,6 +7,7 @@ public class handlerclass_2exp_practice {
                 newlist_emailphone.add(newcon.phone); 
                 newlist_emailphone.add(newcon.email);
                 //test1 control+shift+/
+                //hello this is test
 
             }
             
